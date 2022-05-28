@@ -1,0 +1,25 @@
+
+[
+    {
+    
+    "nome": "Bolovo",
+    "descricao": "Ovo cozido envolto em carne moída, empanado e frito.",
+    "foto": "./assets/images/bolovo.webp",
+    "preco": 21.0
+  },
+  {
+  
+    "nome": "Bolinho de Costela",
+    "descricao":
+      "Bolinho de costela bovina cozida lentamente com mandioca e finalizada com queijo Tulha.",
+    "foto": "./assets/images/bolinho-de-costela.webp",
+    "preco": 38.0
+  },
+  {
+   
+    "nome": "Caldo de Ovo",
+    "descricao": "Comida preferida do Jaymeson",
+    "preco": 24.0
+  }
+]
+
