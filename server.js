@@ -7,3 +7,4 @@ app.listen(port, () => {
   conectarAoDataBase();
   console.log(`Servidor rodando em http://localhost:${port}`);
 });
+
